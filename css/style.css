@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0
+}
+
+a {
+    text-decoration: none;
+}
+
+footer {
+    padding: 1rem 0 1rem 0;
+    background-color: #3b3;
+    color: #fff!important;
+    text-align: center;
+}
+
+.phpImg {
+    margin: 5px;
+    height: 300px;
+}
+
+.phpDiv {
+    margin: 5px;
+    width: 15%;
+    display: inline-block;
+    background: #eee;
+    border: 1px solid #F00;
+}
